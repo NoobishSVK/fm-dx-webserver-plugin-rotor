@@ -1,5 +1,5 @@
 # FM-DX Webserver Rotor Plugin
-A simple rotor control plugin for FM-DX Webserver made for YAESU-comaptible rotors using the YAESU GS-232 B protocol.
+A simple rotor control plugin for FM-DX Webserver made for YAESU-compatible rotors using the YAESU GS-232 B protocol.
 Suitable for **FM-DX Webserver 1.4.0** or newer.  
   
 <img width="397" height="388" alt="{8B56CE18-F400-4BE6-8686-BB522B5A2621}" src="https://github.com/user-attachments/assets/19dff2d8-9cb7-41cd-b1f9-782ba5f26423" />
